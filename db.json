@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "takahashi",
+            "age": 20
+        },
+        {
+            "id": 2,
+            "name": "yamada",
+            "age": 30
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment!"
+        },
+        {
+            "id": 2,
+            "body": "some comment!!"
+        }
+    ]
+}

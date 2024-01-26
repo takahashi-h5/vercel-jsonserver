@@ -1,0 +1,23 @@
+{
+  "name": "vercel-jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takahashi-h5/vercel-jsonserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takahashi-h5/vercel-jsonserver/issues"
+  },
+  "homepage": "https://github.com/takahashi-h5/vercel-jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
